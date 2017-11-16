@@ -1,0 +1,55 @@
+var myImagesData = 
+{ 
+  
+  "directory":"Images/",
+
+  "images" : [
+    {
+      "name" : "THEM EYES",
+      "url" : "insta1.jpg",
+      "description" : "",
+      "uploadDate" : "2017-11-16"
+    },
+    {
+      "name" : "THE FLASHY",
+      "url" : "insta2.jpg",
+      "description" : "",
+      "uploadDate" : "2017-11-16"
+    },
+    {
+      "name" : "OBLIQUE STANDARD",
+      "url" : "insta3.jpg",
+      "description" : "",
+      "uploadDate" : "2017-11-16"
+    },
+    {
+      "name" : "TRADITIONAL",
+      "url" : "insta4.jpg",
+      "description" : "",
+      "uploadDate" : ""
+    },
+    {
+      "name" : "EXAGGERATED :)",
+      "url" : "insta5.jpg",
+      "description" : "",
+      "uploadDate" : "2017-11-16"
+    },
+    {
+      "name" : "PELO",
+      "url" : "insta6.jpg",
+      "description" : "",
+      "uploadDate" : "2017-11-16"
+    },
+    {
+      "name" : "NOSTALGIA",
+      "url" : "insta7.jpg",
+      "description" : "",
+      "uploadDate" : "2017-11-16"
+    },
+    {
+      "name" : "INNOCENCE",
+      "url" : "insta8.jpg",
+      "description" : "",
+      "uploadDate" : "2017-11-16"
+    }]
+};
